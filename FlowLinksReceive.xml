@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<Object>
+    <ElementFields>
+        <Name Editor="hide" Type="string">FlowLinksReceive</Name>
+        <DisplayName Editor="hide" Type="string">Flow Links Receive</DisplayName>
+        <Version Editor="hide" Type="string">1</Version>
+        <Keywords Editor="hide" Type="string"/>
+        <Tooltip Editor="hide" Type="string"/>
+        <IncomingConnections Editor="hide">No</IncomingConnections>
+        <OutgoingConnections DetailedInfo="" Editor="hide" RequireAtLeastOne="Yes">One</OutgoingConnections>
+        <ConnectionType Editor="hide">Move</ConnectionType>
+        <FunctionsNodeJSScript Editor="hide"/>
+        <ExecutionMode Editor="hide">Concurrent</ExecutionMode>
+        <NumberOfSlots Editor="hide">Default</NumberOfSlots>
+        <ExecutionGroup Editor="hide"/>
+        <PerformanceTuning Editor="hide">No</PerformanceTuning>
+        <IdleAfterJob Editor="hide">0</IdleAfterJob>
+        <PositionInElementPane Editor="hide">Configurators</PositionInElementPane>
+        <SubcategoryInElementPane Editor="hide">&lt;ValueDescription Type=&quot;stringlist&quot;&gt;&lt;Value&gt;Custom&lt;/Value&gt;&lt;/ValueDescription&gt;</SubcategoryInElementPane>
+        <DispositionInElementPane Editor="hide" Type="number"/>
+        <Description Editor="hide" Type="string"/>
+        <Compatibility Editor="hide" Type="string"/>
+        <SupportInfo Editor="hide" Type="string"/>
+        <AppDiscovery Editor="hide" Type="string"/>
+        <FlowUpgradeWarning Editor="hide" Type="string"/>
+        <UpgradeMaximumVersion Editor="hide" Type="number"/>
+        <Connections Editor="hide" Type="string"/>
+        <SwitchModule Editor="hide" Type="string"/>
+        <ObsoleteProperties Editor="hide" Type="string"/>
+        <ObsoleteConnectionProperties Editor="hide" Type="string"/>
+        <Channel Default="" DetailedInfo="" Editor="inline" LocalizedTagName="Channel" Subtype="inline" Tooltip="Имя канала должно быть униальным для всего Switch" Type="string" UserDefined="true" Validation="Standard"></Channel>
+    </ElementFields>
+    <ConnectionFields/>
+    <ExtraProperties/>
+</Object>
